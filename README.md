@@ -13,7 +13,7 @@
   <a href="https://github.com/CaiqueSobral" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="My Github Profile Link"></a> 
   <a href="https://www.linkedin.com/in/caique-sobral-7328b2181/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="My Linkedin Profile Link"></a>
   <a href="https://twitter.com/CaiqueLSobral" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&labelColor=blue" alt="My Twitter Profile Link"></a>
-</p>
+
 
 ### There are the languages I've used the most:
 <p align="center">
@@ -30,3 +30,6 @@
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge&logo=json&logoColor=white&labelColor=000000" alt="Json Logo"></a>
 </p>
+
+### Here is my resumé:
+<a href="https://twitter.com/CaiqueLSobral" target="_blank"><img src="https://img.shields.io/badge/Resumé-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC" alt="My Resumé Profile Link"></a>
