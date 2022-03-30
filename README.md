@@ -32,4 +32,4 @@
 </p>
 
 ### Here is my resumé:
-<a href="https://twitter.com/CaiqueLSobral" target="_blank"><img src="https://img.shields.io/badge/Resumé-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC" alt="My Resumé Profile Link"></a>
+<a href="https://www.canva.com/design/DAEOFkdPS8c/S7ulRYAD6TuxLttxvsEGNQ/view?utm_content=DAEOFkdPS8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="https://img.shields.io/badge/Resumé-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC" alt="My Resumé Profile Link"></a>
