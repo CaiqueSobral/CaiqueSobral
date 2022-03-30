@@ -1,6 +1,13 @@
-## Oh! Hi 🙂
+## Hi! 😄 Let me introduce myself
   
-### I'm Caique,  a full-stack programmer and a programming enthusiast. I spend most of my free-time programming and learning more and more things about it. I’m now working as an IBM Inter for process automation. If you want to know something more about me, here are my social media:
+#### I'm Caique Sobral,  a full-stack programmer and a programming enthusiast. I spend most of my free-time programming and learning more and more things about it. I’m now working as an IBM Inter for process automation.
+### Here are some things I Like, and some hobbies:
+#### 👨🏻‍💻 I like Programming. 
+#### 🎮 I like Gamming.
+#### 🎸 I love to listen to a good Rock n' Roll.
+#### 🛫 I like travelling.
+
+### If you want to know something more about me, here are my social media:
 
 <p align="center">
   <a href="https://github.com/CaiqueSobral"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="My Github Profile Link"></a> 
