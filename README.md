@@ -1,6 +1,6 @@
-### Oh! Hi 🙂
+## Oh! Hi 🙂
   
-#### I'm Caique,  a full-stack programmer and a programming enthusiast. I spend most of my free-time programming and learning more and more things about it. I’m now working as an IBM Inter for process automation. If you want to know something more about me, here are my social media:
+### I'm Caique,  a full-stack programmer and a programming enthusiast. I spend most of my free-time programming and learning more and more things about it. I’m now working as an IBM Inter for process automation. If you want to know something more about me, here are my social media:
 
 <p align="center">
   <a href="https://github.com/CaiqueSobral"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="My Github Profile Link"></a> 
@@ -8,7 +8,7 @@
   <a href="https://twitter.com/CaiqueLSobral"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&labelColor=blue" alt="My Twitter Profile Link"></a>
 </p>
 
-#### There are the languages I've used the most:
+### There are the languages I've used the most:
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=#E34F26" alt="HTML Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=1572B6" alt="CSS Logo"></a>
