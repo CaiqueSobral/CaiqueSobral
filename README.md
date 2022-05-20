@@ -47,7 +47,7 @@
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178C6" alt="Typescript Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120" alt="C# Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=217346" alt="VBA Logo"></a>
+  <a href="#"><img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=217346" alt="VBA Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396" alt="Java Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699" alt="Sass Logo"></a>
 </p>
