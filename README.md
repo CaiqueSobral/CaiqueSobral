@@ -25,9 +25,6 @@
   <a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white&labelColor=DB7093" alt="React Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white&labelColor=2C8EBB" alt="Yarn Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837" alt="NPM Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=F69220" alt="PNPM Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black&labelColor=E8E8E8" alt="Cordova Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/windi%20css-48B0F1?style=for-the-badge&logo=windicss&logoColor=white&labelColor=48B0F1" alt="windi css Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4" alt="Tailwind Logo"></a>
