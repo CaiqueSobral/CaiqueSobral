@@ -67,8 +67,8 @@
   <a href="#"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=4A154B" alt="Slack Logo"></a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiquesobral&show_icons=true&locale=en&theme=tokyonight" alt="caiquesobral" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesobral&theme=tokyonight" alt="caiquesobral" /> </p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=caiquesobral&show_icons=true&locale=en&theme=tokyonight" alt="caiquesobral" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesobral&theme=tokyonight" alt="caiquesobral" /> </p>
 
 <br><br/>
 <h3 align="center"> If you want to know something more about me, here are my social media and resumé </h3>
