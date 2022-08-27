@@ -8,11 +8,13 @@
 <div> 
 <img align="right" alt="Coding" width="30%" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-### Here are some things I Like, and some hobbies:
-#### 👨🏻‍💻 I like Programming. 
-#### 🎮 I like Gamming.
-#### 🎸 I love to listen to a good Rock n' Roll.
-#### 🛫 I like travelling.
+<div align="left"> 
+<h3> Here are some things I Like, and some hobbies: <h3>
+<p>&nbsp; 👨🏻‍💻 I like Programming.</p>
+<p>&nbsp;🎮 I like Gamming.</p>
+<p>&nbsp;🎸 I love to listen to a good Rock n' Roll.</p>
+<p>&nbsp;🛫 I like travelling.</p>
+</div>
 </div>
 
 <br><br/>
@@ -67,8 +69,8 @@
   <a href="#"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=4A154B" alt="Slack Logo"></a>
 </p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=caiquesobral&show_icons=true&locale=en&theme=tokyonight" alt="caiquesobral" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesobral&theme=tokyonight" alt="caiquesobral" /> </p>
+<p align="center">&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=caiquesobral&show_icons=true&locale=en&theme=tokyonight" alt="caiquesobral" />
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesobral&theme=tokyonight" alt="caiquesobral" /> </p>
 
 <br><br/>
 <h3 align="center"> If you want to know something more about me, here are my social media and resumé </h3>
