@@ -25,12 +25,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031" alt="Angular Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=3880FF" alt="Ionic Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white&labelColor=DB7093" alt="React Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cordova-E8E8E8?style=for-the-badge&logo=apachecordova&logoColor=black&labelColor=E8E8E8" alt="Cordova Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/windi%20css-48B0F1?style=for-the-badge&logo=windicss&logoColor=white&labelColor=48B0F1" alt="windi css Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4" alt="Tailwind Logo"></a>
 </p>
 
 <h4 align="center"> Persistence </h4>
@@ -49,8 +44,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="Javascript Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178C6" alt="Typescript Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=239120" alt="C# Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=217346" alt="VBA Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396" alt="Java Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699" alt="Sass Logo"></a>
 </p>
@@ -62,17 +55,9 @@
   <a href="#"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098" alt="Heroku Logo"></a>
 </p>
 
-<h4 align="center"> Agile Tools </h4>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=0052CC" alt="Trello Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0052CC" alt="Jira Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=4A154B" alt="Slack Logo"></a>
-</p>
-
 <p align="center">&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=caiquesobral&show_icons=true&locale=en&theme=tokyonight" alt="caiquesobral" />
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesobral&theme=tokyonight" alt="caiquesobral" /> </p>
 
-<br><br/>
 <h3 align="center"> If you want to know something more about me, here are my social media and resumé </h3>
 
 <p align="center">
