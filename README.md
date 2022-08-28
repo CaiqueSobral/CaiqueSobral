@@ -17,9 +17,9 @@
 <p>&nbsp;🛫 I like travelling.</p>
 </div>
 </div>
-
 <br><br/>
-### There are a few of my skills:
+
+## <p align="center">🔧 Skills and Tools 🔧</p>
 
 <h4 align="center"> Frameworks </h4>
 <p align="center">
@@ -55,7 +55,7 @@
   <a href="#"><img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7" alt="Netlify Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098" alt="Heroku Logo"></a>
 </p>
-
+<br><br/>
 
 ## <p align="center">⚡ Stats ⚡</p>
 <p align="center">&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=caiquesobral&show_icons=true&locale=en&theme=tokyonight" alt="caiquesobral" />
