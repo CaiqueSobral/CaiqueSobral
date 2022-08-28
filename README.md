@@ -1,10 +1,11 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://github.com/caiquesobral)
+[![MasterHead](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)](https://github.com/caiquesobral)
 <br><br/>
-<h2 align="center"> 👋 Hi! Let me introduce myself </h2>
-  
-<h3 align="center"> I'm Caique Sobral,  a full-stack programmer and a programming enthusiast.</h3>
 
-<br><br/>
+<div align="center" margin="auto">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B%F0%9F%8F%BB+Hi!+Let+me+introduce+myself;I'm+Caique+Sobral;A+programming+enthusiast" alt="Typing SVG" /></a>
+</div>
+
+##
 <div> 
 <img align="right" alt="Coding" width="30%" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
@@ -55,19 +56,21 @@
   <a href="#"><img src="https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098" alt="Heroku Logo"></a>
 </p>
 
+
+## <p align="center">⚡ Stats ⚡</p>
 <p align="center">&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=caiquesobral&show_icons=true&locale=en&theme=tokyonight" alt="caiquesobral" />
 <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=caiquesobral&theme=tokyonight" alt="caiquesobral" /> </p>
+<br><br/>  
 
-<h3 align="center"> If you want to know something more about me, here are my social media and resumé </h3>
-
+## <p align="center">✨ My social media and Resumé ✨</p>
+  
 <p align="center">
   <a href="https://github.com/CaiqueSobral" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="My Github Profile Link"></a> 
   <a href="https://www.linkedin.com/in/caique-sobral-7328b2181/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="My Linkedin Profile Link"></a>
   <a href="https://twitter.com/CaiqueLSobral" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&labelColor=blue" alt="My Twitter Profile Link"></a>
 <a href="https://www.canva.com/design/DAEOFkdPS8c/S7ulRYAD6TuxLttxvsEGNQ/view?utm_content=DAEOFkdPS8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank"><img src="https://img.shields.io/badge/Resumé-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC" alt="My Resumé Profile Link"></a>
  
-  ##
-  <p align="center">
-    <img src="https://github.com/caiquesobral/caiquesobral/blob/output/github-contribution-grid-snake.svg">
-    </p>
-    
+<br><br/>
+<p align="center">
+<img src="https://github.com/caiquesobral/caiquesobral/blob/output/github-contribution-grid-snake.svg">
+</p>
