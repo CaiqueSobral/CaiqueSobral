@@ -45,7 +45,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="Javascript Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=3178C6" alt="Typescript Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python Logo"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396" alt="Java Logo"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white&labelColor=007396" alt="Java Logo"></a>
   <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699" alt="Sass Logo"></a>
 </p>
 
