@@ -69,7 +69,7 @@
   <a href="https://github.com/CaiqueSobral" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="My Github Profile Link"></a> 
   <a href="https://www.linkedin.com/in/caique-sobral-7328b2181/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="My Linkedin Profile Link"></a>
   <a href="https://twitter.com/CaiqueLSobral" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&labelColor=blue" alt="My Twitter Profile Link"></a>
-<a href="[https://www.canva.com/design/DAEOFkdPS8c/S7ulRYAD6TuxLttxvsEGNQ/view?utm_content=DAEOFkdPS8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFbf3e9CkY/KSOf1B-i5ES04qaHNxBO3A/view?utm_content=DAFbf3e9CkY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" target="_blank"><img src="https://img.shields.io/badge/Resumé-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC" alt="My Resumé Profile Link"></a>
+<a href="https://www.canva.com/design/DAFbf3e9CkY/KSOf1B-i5ES04qaHNxBO3A/view?utm_content=DAFbf3e9CkY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><img src="https://img.shields.io/badge/Resumé-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC" alt="My Resumé Profile Link"></a>
  
 <br><br/>
 <p align="center">
